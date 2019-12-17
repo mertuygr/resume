@@ -7,7 +7,7 @@
 <img src="assets/preview.png" height=460px width=350px align="right"/>
 </a>
 
-This is my single page LaTeX based resume, built with Travis CI (free for public repos) and deployed to GitHub Releases on each change. 
+This is my single page LaTeX based resume, built with Travis CI and deployed to GitHub Releases on each change. 
 The deployment includes compiled PDF and first page PDF preview.
 
 release page [here](https://github.com/mertuygr/resume/releases)
